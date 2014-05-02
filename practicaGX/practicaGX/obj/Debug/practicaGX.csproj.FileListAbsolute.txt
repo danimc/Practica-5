@@ -1,0 +1,7 @@
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\obj\Debug\practicaGX.csprojResolveAssemblyReference.cache
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\obj\Debug\practicaGX.MainForm.resources
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\obj\Debug\practicaGX.csproj.GenerateResource.Cache
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\bin\Debug\practicaGX.exe
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\bin\Debug\practicaGX.pdb
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\obj\Debug\practicaGX.exe
+E:\SharpDevelopPortable\Data\SharpDevelop Projects\practicaGX\practicaGX\obj\Debug\practicaGX.pdb
