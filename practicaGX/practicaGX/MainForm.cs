@@ -77,7 +77,7 @@ namespace practicaGX
 			if(this.monthCalendar1.SelectionStart.Date.ToShortDateString() == "16/09/1810"){
 				calificacion++;
 			}
-			MessageBox.Show("tu calificacion es de" +calificacion +"/6");
+			MessageBox.Show(nombre +',' +' ' +"tu calificacion es de " +calificacion +" de 6");
 			}
 		}
 	}

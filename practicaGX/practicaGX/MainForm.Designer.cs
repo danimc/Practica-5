@@ -62,7 +62,7 @@ namespace practicaGX
 			// 
 			// textBox1
 			// 
-			this.textBox1.Location = new System.Drawing.Point(71, 43);
+			this.textBox1.Location = new System.Drawing.Point(42, 54);
 			this.textBox1.Name = "textBox1";
 			this.textBox1.Size = new System.Drawing.Size(178, 20);
 			this.textBox1.TabIndex = 0;
@@ -70,7 +70,7 @@ namespace practicaGX
 			// 
 			// Nombre
 			// 
-			this.Nombre.Location = new System.Drawing.Point(71, 17);
+			this.Nombre.Location = new System.Drawing.Point(42, 28);
 			this.Nombre.Name = "Nombre";
 			this.Nombre.Size = new System.Drawing.Size(100, 23);
 			this.Nombre.TabIndex = 1;
@@ -79,14 +79,14 @@ namespace practicaGX
 			// 
 			// textBox2
 			// 
-			this.textBox2.Location = new System.Drawing.Point(339, 43);
+			this.textBox2.Location = new System.Drawing.Point(339, 54);
 			this.textBox2.Name = "textBox2";
 			this.textBox2.Size = new System.Drawing.Size(207, 20);
 			this.textBox2.TabIndex = 2;
 			// 
 			// label2
 			// 
-			this.label2.Location = new System.Drawing.Point(339, 17);
+			this.label2.Location = new System.Drawing.Point(343, 28);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(100, 23);
 			this.label2.TabIndex = 3;
@@ -233,7 +233,7 @@ namespace practicaGX
 			// button1
 			// 
 			this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
-			this.button1.Location = new System.Drawing.Point(25, 437);
+			this.button1.Location = new System.Drawing.Point(25, 387);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(159, 73);
 			this.button1.TabIndex = 20;
@@ -244,7 +244,7 @@ namespace practicaGX
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(627, 541);
+			this.ClientSize = new System.Drawing.Size(627, 504);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.monthCalendar1);
 			this.Controls.Add(this.label6);
